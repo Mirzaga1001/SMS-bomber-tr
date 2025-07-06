@@ -1,7 +1,7 @@
 # SMSbomberTR
 
 **Bu bir SMS Spamlayıcı Tool'dur.**  
-Bu repo, hedef numaraya çoklu spam atmasını sağlıyor. Bu repo'yu kullandığınızda tüm sorumluluk size ait olur. Lütfen kuarllara uyun!!!
+Bu repo, hedef numaraya çoklu spam atmasını sağlıyor. Bu repo'yu kullandığınızda tüm sorumluluk size ait olur. Lütfen kurallara uyun!!!
 
 ## Kurulum
 
