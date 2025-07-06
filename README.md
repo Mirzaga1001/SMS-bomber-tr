@@ -8,8 +8,8 @@ Bu repo, hedef numaraya çoklu spam atmasını sağlıyor. Bu repo'yu kullandı�
 ```bash
 pkg install git -y
 pkg install python3 -y
-git clone https://github.com/kullaniciadi/mirzobomber.git
-cd mirzobomber
+git clone https://github.com/Mirzaga1001/SMS-bomber-tr.git
+cd SMS-bomber-tr
 pip3 install -r requirements.txt
 bash run.sh
 ```
