@@ -1,7 +1,7 @@
-# MirzoBomber
+# SMSbomberTR
 
-**Bu bir eğitim amaçlı Python projesi şablonudur.**  
-Bu repo, kullanıcının kendi Python dosyasını (`mirzobomber.py`) eklemesi için hazırlanmıştır.
+**Bu bir SMS Spamlayıcı Tool'dur.**  
+Bu repo, hedef numaraya çoklu spam atmasını sağlıyor. Bu repo'yu kullandığınızda tüm sorumluluk size ait olur. Lütfen kuarllara uyun!!!
 
 ## Kurulum
 
@@ -27,4 +27,4 @@ python3 mirzobomber.py
 
 ## Uyarı
 
-Bu repo sadece **eğitim ve test amaçlıdır**. Lütfen yürürlükteki yasaları ihlal etmeyiniz.
+Bu repo sadece **Türkiye İçi Numaralara Spam Yapar**. Lütfen yürürlükteki yasaları ihlal etmeyiniz.
