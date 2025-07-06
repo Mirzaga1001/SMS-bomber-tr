@@ -6,6 +6,8 @@ Bu repo, hedef numaraya çoklu spam atmasını sağlıyor. Bu repo'yu kullandı�
 ## Kurulum
 
 ```bash
+pkg install git -y
+pkg install python3 -y
 git clone https://github.com/kullaniciadi/mirzobomber.git
 cd mirzobomber
 pip3 install -r requirements.txt
@@ -14,7 +16,7 @@ bash run.sh
 
 ## Kullanım
 
-`.py` dosyanı bu klasöre yerleştir (örneğin: `mirzobomber.py`) ve çalıştır:
+`.py` dosyanı bu klasöre yerleştir (örneğin: `startBomber.py`) ve çalıştır:
 
 ```bash
 python3 startBomber.py
