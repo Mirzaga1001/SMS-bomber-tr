@@ -11,7 +11,7 @@ pkg install python3 -y
 git clone https://github.com/Mirzaga1001/SMS-bomber-tr.git
 cd SMS-bomber-tr
 pip3 install -r requirements.txt
-bash run.sh
+chmod +x run.sh
 ```
 
 ## Kullanım
@@ -19,7 +19,7 @@ bash run.sh
 Kurulumu yaptıktan sonra aşağıdaki komutu girin:
 
 ```bash
-python3 startBomber.py
+bash run.sh
 ```
 
 ## Gereksinimler
