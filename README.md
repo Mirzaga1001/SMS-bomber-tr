@@ -16,7 +16,7 @@ bash run.sh
 
 ## Kullanım
 
-`.py` dosyanı bu klasöre yerleştir (örneğin: `startBomber.py`) ve çalıştır:
+Kurulumu yaptıktan sonra aşağıdaki komutu girin:
 
 ```bash
 python3 startBomber.py
