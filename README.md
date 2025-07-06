@@ -17,7 +17,7 @@ bash run.sh
 `.py` dosyanı bu klasöre yerleştir (örneğin: `mirzobomber.py`) ve çalıştır:
 
 ```bash
-python3 mirzobomber.py
+python3 startBomber.py
 ```
 
 ## Gereksinimler
