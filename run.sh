@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Başlatılıyor..."
-python3 mirzobomber.py
+python3 startBomber.py
